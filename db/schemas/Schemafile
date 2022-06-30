@@ -1,3 +1,4 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 require 'users.schema'
+require 'login_dates.schema'
