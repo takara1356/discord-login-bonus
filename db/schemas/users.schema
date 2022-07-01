@@ -2,6 +2,6 @@
 # vi: set ft=ruby :
 create_table :users, force: :cascade do |t|
   t.bigint :discord_id, null: false
-  t.string :discord_name, null: false
+  t.string :name, null: false
   t.timestamps
 end
