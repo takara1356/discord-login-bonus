@@ -1,0 +1,1 @@
+web: bundle exec rails runner "Main.execute" -p 3000
